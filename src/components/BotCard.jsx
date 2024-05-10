@@ -29,6 +29,6 @@ function BotCard({ bot, handleAdd, handleDelete }) {
       </div>
     </div>
   );
-}
+} 
 
 export default BotCard;
