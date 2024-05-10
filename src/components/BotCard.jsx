@@ -22,7 +22,8 @@ function BotCard({ bot, handleAdd, handleDelete }) {
           <button
             className='deleteBtn'
             onClick={() => handleDelete(bot)}
-          >
+
+          >delete
             
           </button>
         </div>
