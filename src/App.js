@@ -1,6 +1,6 @@
 
 import  "./App.css";
-import BotsPage from "./components/BotsPage"
+import BotsPage from "./components/BotPage"
 
 function App() {
   return (
